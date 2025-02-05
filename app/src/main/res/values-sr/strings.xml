@@ -711,7 +711,7 @@
     <string name="progressive_load_interval_title">Величина интервала учитавања репродукције</string>
     <string name="error_report_channel_name">Обавештење о извештају о грешци</string>
     <string name="feed_new_items">Нове ставке фида</string>
-    <string name="ignore_hardware_media_buttons_title">Игнориши догађаје хардверског дугмета за медије</string>
+    <string name="ignore_hardware_media_buttons_title">Занемари догађаје хардверског дугмета за медије</string>
     <string name="duplicate_in_playlist">Плејлисте које су затамњене већ садрже ову ставку.</string>
     <string name="leak_canary_not_available">LeakCanary није доступан</string>
     <string name="app_update_available_notification_text">Додирните да бисте преузели %s</string>
@@ -839,4 +839,5 @@
     <string name="auto_update_check_description">NewPipe може аутоматски да проверава да ли постоје нове верзије с времена на време и да вас обавести када буду доступне.
 \nЖелите ли да омогућите ово?</string>
     <string name="import_settings_vulnerable_format">Подешавања у извозу који се увозе користе рањив формат који је застарео од NewPipe верзије 0.27.0. Уверите се да извоз који се увози долази из поузданог извора и радије користите само извозе добијене из NewPipe 0.27.0 или новије верзије, у будућности. Подршка за увоз подешавања у овом рањивом формату ће ускоро бити потпуно уклоњена и тада старе NewPipe верзије више неће моћи да увозе подешавања извоза из нових верзија.</string>
+    <string name="audio_track_type_secondary">секундарни</string>
 </resources>

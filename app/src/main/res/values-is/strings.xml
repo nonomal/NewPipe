@@ -502,7 +502,7 @@
     <string name="feed_load_error">Villa við að hlaða streymi</string>
     <string name="feed_load_error_account_info">Gat ekki hlaðið streymi fyrir ‚%s.‘</string>
     <string name="feed_use_dedicated_fetch_method_summary">Fáanlegt fyrir sumar þjónustur. Það er venjulega miklu hraðari en getur skilað ófullnægjandi upplýsingum (t.d. engin lengd, tegund, staða beinna útsendinga)</string>
-    <string name="feed_use_dedicated_fetch_method_help_text">Ef áskriftir eru uppfærðar of hægt máttu prófa hraðstreymissham (kveiktu á honum í stillingunum eða með hnappnum hér að neðan).\n\nNewPipe getur uppfært áskriftir á tvo vegu:\n• Sækja alla áskriftarrásina - hægvirkt en veitir allar upplýsingar.\n• Nota sérstök forritaskil - fljótvirkt en upplýsingar verða minni.\n\nHraðstreymishamur getur veitt ófullnægjandi upplýsingar, t.d. engin lengd, tegund, staða og getur skilað færri atriðum.\n\nYouTube er dæmi um þjónustu sem býður upp á þetta með RSS-streymi sínu.\n\nValið er því á milli hraða eða nákvæmra upplýsinga.</string>
+    <string name="feed_use_dedicated_fetch_method_help_text">Ef áskriftir eru uppfærðar of hægt máttu prófa hraðstreymissham (kveiktu á honum í stillingunum eða með hnappnum hér að neðan). \n \nNewPipe getur uppfært áskriftir á tvo vegu: \n• Sækja alla áskriftarrásina - hægvirkt en veitir allar upplýsingar. \n• Nota sérstök forritaskil - fljótvirkt en upplýsingar verða minni. \n \nHraðstreymishamur getur veitt ófullnægjandi upplýsingar, t.d. engin lengd, tegund, staða og getur skilað færri atriðum. \n \nYouTube er dæmi um þjónustu sem býður upp á þetta með RSS-streymi sínu. \n \nValið er því á milli hraða eða nákvæmra upplýsinga.</string>
     <string name="detail_sub_channel_thumbnail_view_description">Smámynd rásar</string>
     <string name="soundcloud_go_plus_content">Þetta er SoundCloud Go+ lag að minnsta kosti í þínu landi — það er ekki hægt að streyma því eða sækja með NewPipe.</string>
     <string name="youtube_music_premium_content">Þetta myndskeið er aðeins í boði fyrir YouTube Tónlist Premium meðlimi, það er ekki hægt að streyma því eða sækja með NewPipe.</string>
@@ -607,7 +607,7 @@
     <string name="enable_playback_state_lists_title">Spilunarstöður í listum</string>
     <string name="enable_playback_state_lists_summary">Sýna spilunarstöður í listum</string>
     <string name="show_hold_to_append_title">Sýna ábendinguna „Haltu niðri til að bæta við spilunarröð“</string>
-    <string name="show_hold_to_append_summary">Sýna ábendingu þegar ýtt er á bakgrunninn eða sprettihnappinn í „Nánar:“ á myndskeiðinu</string>
+    <string name="show_hold_to_append_summary">Sýna ábendingu þegar ýtt er á bakgrunninn eða sprettihnappinn á myndskeiðinu í „Nánar:\\</string>
     <string name="unsupported_url_dialog_message">Óþekkt slóð. Opna með öðru forriti\?</string>
     <string name="peertube_instance_url_summary">Veldu uppáhalds PeerTube tilvik þín</string>
     <string name="peertube_instance_url_help">Þú mátt finna tilviki á %s</string>
@@ -647,7 +647,7 @@
     <string name="disable_media_tunneling_summary">Slökktu á margmiðlunargöngum (media tunneling) ef vart verður við svartan skjá eða hökt við spilun myndskeiða.</string>
     <string name="show_image_indicators_title">Sýna myndvísa</string>
     <string name="show_image_indicators_summary">Sýna Picasso litaða borða ofan á myndum sem gefa til kynna uppruna þeirra: rauðan fyrir netið, bláan fyrir disk og grænan fyrir minni</string>
-    <string name="show_crash_the_player_title">Sýna „Hrynja spilara“</string>
+    <string name="show_crash_the_player_title">Sýna „Láta spilara hrynja\\</string>
     <string name="show_crash_the_player_summary">Sýna valkost til að hrynja spilara</string>
     <string name="crash_the_app">Hrynja forrit</string>
     <string name="create_error_notification">Búа til villutilkynningu</string>
@@ -730,7 +730,7 @@
     <string name="feed_show_upcoming">Á næstunni</string>
     <string name="channel_tab_videos">Myndskeið</string>
     <string name="channel_tab_tracks">Spor</string>
-    <string name="channel_tab_shorts">Stuttmyndir</string>
+    <string name="channel_tab_shorts">Símamyndir</string>
     <string name="channel_tab_playlists">Spilunarlistar</string>
     <string name="channel_tab_albums">Albúm</string>
     <string name="channel_tab_about">Um hugbúnaðinn</string>
@@ -804,4 +804,5 @@
     <string name="main_tabs_position_summary">Færa veljara aðalflipa neðst</string>
     <string name="show_error_snackbar">Sýna villustiku</string>
     <string name="image_quality_summary">Veldu gæði mynda og hvort eigi að hlaða myndum inn yfirhöfuð, til að minnka notun gagna og minnis. Breytingar munu hreinsa bæði vinnsluminni og diskminni - %s</string>
+    <string name="audio_track_type_secondary">auka</string>
 </resources>
